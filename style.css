@@ -1,0 +1,43 @@
+*{
+    background-color:black;
+}
+.text{
+    color: white;
+    text-align: center;
+    font-family: 'Itim', cursive;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Itim', cursive;
+}
+.inner-btn{
+    margin-top: 8px;
+    margin-bottom: 3px;
+}
+.input{
+    background-color: white;
+}
+.button{
+    background-color: white;
+    font-family: 'Itim', cursive;
+    padding: 24px;
+    margin-right: 8px;
+    border: 2px solid black;
+    border-radius: 6px;
+    justify-content: space-around;
+    font-style: bold;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.inner-btn input{
+    font-family: 'Itim', cursive;
+    font-size: 24px;
+    margin: 0;
+    padding: 4px 2px;
+    border: 2px solid black;
+    border-radius: 2px;
+    text-align: end;
+}
